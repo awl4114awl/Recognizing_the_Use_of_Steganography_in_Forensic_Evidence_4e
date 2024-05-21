@@ -10,7 +10,7 @@ Steganography is the practice of hiding private or sensitive information within 
 
  
 
-In the digital age, steganography can be used for digital watermarking, hiding data within images, or to identify the source of a given image or document (embedded copyright). Businesses sometimes employ steganography when they want to supplement the protection of encryption. In countries where encryption is not permitted (see the Crypto Law Survey at http://www.cryptolaw.org), steganography can often be used instead. While cryptography involves special encoding and decoding of messages or information, steganography replaces useless or unused data with bits of different, invisible information. This hidden information can be plain text, cipher text, or even images. Special software, such as the tools used in this lab, is needed to apply or decipher steganography.
+In the digital age, steganography can be used for digital watermarking, hiding data within images, or to identify the source of a given image or document (embedded copyright). Businesses sometimes employ steganography when they want to supplement the protection of encryption. In countries where encryption is not permitted, steganography can often be used instead. While cryptography involves special encoding and decoding of messages or information, steganography replaces useless or unused data with bits of different, invisible information. This hidden information can be plain text, cipher text, or even images. Special software, such as the tools used in this lab, is needed to apply or decipher steganography.
 
  
 
