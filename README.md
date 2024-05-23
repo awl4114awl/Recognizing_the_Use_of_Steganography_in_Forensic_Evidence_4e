@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/t23TXuR.png" height="100%" width="100%" alt="daubert standard"/>
+<img src="https://i.imgur.com/t23TXuR.png" height="50%" width="50%" alt="daubert standard"/>
 </p>
 
 <h1>Lab 2: Recognizing the Use of Steganography in Forensic Evidence</h1>
