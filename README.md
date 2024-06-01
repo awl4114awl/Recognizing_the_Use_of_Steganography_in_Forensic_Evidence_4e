@@ -1,20 +1,14 @@
-<p align="center">
-<img src="https://i.imgur.com/t23TXuR.png" height="50%" width="50%" alt="daubert standard"/>
-</p>
-
-<h1>Lab 2: Recognizing the Use of Steganography in Forensic Evidence</h1>
-
 Introduction
 
-    Steganography is the practice of hiding private or sensitive information within something that appears to be nothing out of the usual. The word steganography comes from ancient Greece (steganos), where hiding hidden messages within seemingly harmless messages became an art form. Over the years, steganography has taken on many clever and effective analog forms. One example that is often depicted in movies is invisible ink, which is not actually ink at all but a liquid, such as vinegar, that dries invisibly on paper but reappears when heated by a small flame. Another analog method is newspaper code. Popular among the working class of the Victorian era, newspaper code consisted of holes poked just above specific letters in a newspaper, such that when the dots were transferred and written together, the secret message would be revealed.
+Steganography is the practice of hiding private or sensitive information within something that appears to be nothing out of the usual. The word steganography comes from ancient Greece (steganos), where hiding hidden messages within seemingly harmless messages became an art form. Over the years, steganography has taken on many clever and effective analog forms. One example that is often depicted in movies is invisible ink, which is not actually ink at all but a liquid, such as vinegar, that dries invisibly on paper but reappears when heated by a small flame. Another analog method is newspaper code. Popular among the working class of the Victorian era, newspaper code consisted of holes poked just above specific letters in a newspaper, such that when the dots were transferred and written together, the secret message would be revealed.
 
  
 
-    In the digital age, steganography can be used for digital watermarking, hiding data within images, or to identify the source of a given image or document (embedded copyright). Businesses sometimes employ steganography when they want to supplement the protection of encryption. In countries where encryption is not permitted, steganography can often be used instead. While cryptography involves special encoding and decoding of messages or information, steganography replaces useless or unused data with bits of different, invisible information. This hidden information can be plain text, cipher text, or even images. Special software, such as the tools used in this lab, is needed to apply or decipher steganography.
+In the digital age, steganography can be used for digital watermarking, hiding data within images, or to identify the source of a given image or document (embedded copyright). Businesses sometimes employ steganography when they want to supplement the protection of encryption. In countries where encryption is not permitted (see the Crypto Law Survey at http://www.cryptolaw.org), steganography can often be used instead. While cryptography involves special encoding and decoding of messages or information, steganography replaces useless or unused data with bits of different, invisible information. This hidden information can be plain text, cipher text, or even images. Special software, such as the tools used in this lab, is needed to apply or decipher steganography.
 
  
 
-    In a forensic investigation, investigators will explore a targeted machine in search of steganographic evidence, but when they do this, they risk changing the very data they seek, potentially invalidating evidence. For this reason, they will often make a copy of an evidence drive and conduct the investigation on that image. In this lab, you will use a variety of free tools to discover possible steganographic activity in image and audio files located on a suspect’s drive image. You will properly identify and extract embedded data in a carrier image and document your findings.
+In a forensic investigation, investigators will explore a targeted machine in search of steganographic evidence, but when they do this, they risk changing the very data they seek, potentially invalidating evidence. For this reason, they will often make a copy of an evidence drive and conduct the investigation on that image. In this lab, you will use a variety of free tools to discover possible steganographic activity in image and audio files located on a suspect’s drive image. You will properly identify and extract embedded data in a carrier image and document your findings.
 
 
 
@@ -65,8 +59,7 @@ This lab contains the following virtual machines. Please refer to the network to
     vWorkstation (Windows: Server 2019)
 
  
-
-1622666045223_mceclip29.png
+<img src="https://i.imgur.com/45WBZQP.png" height="20%" width="20%" alt="forensics"/>
 
 
 
@@ -158,114 +151,4 @@ SECTION 3
 
     Record the names of the files that contain concealed data.
 
-    Lab Guide Preview --> https://shorturl.at/Bi8qR
-<br />
-<p align="center">
-<img src="https://i.imgur.com/kjRZxxb.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/xw68nXe.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/PX6sTaZ.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/M2YjOpI.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/LHUhEPI.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/k6gMRk4.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/YWZgwFd.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/X3psriY.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/Sqld8vd.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/OUVeIu3.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/OElvKiH.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/3qq4la5.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/s3RZhBa.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/5B9OS22.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/dOiMSCl.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/SRnVH0h.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/DSvgUzL.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/jEB3mKA.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/jMBMcQC.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/mUMMxGZ.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/QcaYJgU.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/5v9MzAu.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/aqioX72.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/riBEthQ.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/FJ711kz.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/vHUGroH.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/yCXs5gR.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/M9JfBTM.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/MfHwqXm.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/ELn0iWy.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/QwNsVJw.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/X85U6xy.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-<img src="https://i.imgur.com/hydvDTk.png" height="80%" width="80%" alt="daubert standard"/>
-<br />
-<br />
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
