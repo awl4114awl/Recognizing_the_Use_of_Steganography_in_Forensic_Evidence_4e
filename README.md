@@ -1,3 +1,7 @@
+<p align="left">
+<img src="https://i.imgur.com/t23TXuR.png" height="20%" width="20%" alt="daubert standard"/>
+</p>
+
 Introduction
 
 Steganography is the practice of hiding private or sensitive information within something that appears to be nothing out of the usual. The word steganography comes from ancient Greece (steganos), where hiding hidden messages within seemingly harmless messages became an art form. Over the years, steganography has taken on many clever and effective analog forms. One example that is often depicted in movies is invisible ink, which is not actually ink at all but a liquid, such as vinegar, that dries invisibly on paper but reappears when heated by a small flame. Another analog method is newspaper code. Popular among the working class of the Victorian era, newspaper code consisted of holes poked just above specific letters in a newspaper, such that when the dots were transferred and written together, the secret message would be revealed.
